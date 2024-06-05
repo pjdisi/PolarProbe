@@ -186,7 +186,7 @@ if __name__ == "__main__":
     # evaluator.evaluate_layers()
     # evaluator.evaluate_rank()
     # evaluator.evaluate_types()
-    evaluator.run_controlled()
+    # evaluator.run_controlled()
 
 
 
